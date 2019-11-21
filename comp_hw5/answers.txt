@@ -1,0 +1,15 @@
+1. To see the figure check Figure_1.png. Slope is: 5.07793064
+
+2. R^2 is: 0.8782624703664671
+
+3. To see the new figure check Figure_2.png. Slope after outlier removal is: 6.36859481 which is way closer to correct slope.
+
+4. New R^2 is: 0.9831894553955322
+
+5. To see the figure check Figure_3.png.
+
+6. Name of the key of this data point is 'TOTAL'. We should not include it since it is not meaningful to include.
+
+7. No. 
+
+8. LAY KENNETH L and SKILLING JEFFREY K.

@@ -1,0 +1,15 @@
+1. To see the plot, check plot.png. We are trying to predict bonus.The input feature being used is salary.
+
+2. Slope = 5.44814029
+Intercept = -102360.543294
+
+3. Accuracy score on train set: 0.0455091926995
+
+4. Accuracy score on test set: -1.48499241737
+
+5. R^2 on the test data: -0.59271289995
+
+R^2 of long_term_incentive is better.
+
+6. New slope is: 2.27410114
+

@@ -1,0 +1,58 @@
+Q1: 
+
+Accuracy = 0.9732650739476678
+
+Q2: 
+
+training time: 1.292 s
+prediction time: 0.163 s
+
+Prediction is faster.
+
+Q3: 
+
+Accuracy = 0.9840728100113766
+
+Q4:
+
+training time: 185.809 s
+prediction time: 19.152 s
+
+Prediction is faster.
+
+Both training and prediction times are slower than Naive Bayes.
+
+Q5:
+
+Accuracy : 0.8845278725824801
+
+Q6: 
+
+Accuracy : 0.6160409556313993
+
+Q7:
+
+C= 10 Accuracy= 0.6160409556313993
+C= 100 Accuracy= 0.6160409556313993
+C= 1000 Accuracy= 0.8213879408418657
+C= 10000 Accuracy= 0.8924914675767918
+
+C= 10000 gives the best accuracy.
+Once I optimized the C value for my RBF kernel, the accuracy is 0.8924914675767918.
+It corresponds to more complex decision boundary.
+
+Q8:
+
+C=10000 Accuracy= 0.9908987485779295
+
+It clearly overfits.
+
+Q9:
+
+10th = 1
+26th = 0
+50th = 1
+
+Q10:
+
+877

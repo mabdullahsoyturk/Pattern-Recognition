@@ -1,0 +1,39 @@
+q1:
+
+Accuracy: 0.9914675767918089
+
+q2:
+
+Number of features: 3785
+
+q3:
+
+Number of features: 379
+
+SelectPercentile is choosing specified number of features (for example if percentile is defined as 10, it chooses number_of_features/10 features according to the scores of features).
+
+Large value for percentile would probably lead to a more complex decision tree since there would be more features to consider.
+
+The time it takes to train with 1 percentile: 3.64685106277 seconds
+The time it takes to train with 10 percentile: 42.9335479736 seconds
+
+Obviously, as percentile increases, the time it takes to train increases.
+
+q4:
+
+Accuracy: 0.9869169510807736
+
+q5:
+
+Best accuracy: 0.944
+K with best accuracy: 8
+
+q6:
+
+Best accuracy: 0.928
+Number of estimators with max accuracy: 15
+
+q7:
+
+Best accuracy: 0.92
+Number of trees with max accuracy: 45

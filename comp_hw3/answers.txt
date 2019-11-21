@@ -1,0 +1,43 @@
+1. There are 146 data points in the dataset.
+
+2. There are 21 features in each person.
+
+3. Number of POIs is 18.
+
+4. There are 35 POIs in total.
+
+5. Total value of the stock belonging to James Prentice: 1095040
+
+6. Number of email messages from Wesley Colwell to persons of interest: 11
+
+7. Value of stock options exercised by Jeffrey K Skilling: 19250000
+
+8. Kenneth L Lay took home the most money. Following is how much money each person get: 
+
+Jeffrey K Skilling: 8682716
+Kenneth L Lay: 103559793
+Andrew S Fastow: 2424083
+
+9. Number of people who have quantified salary: 95
+
+Number of people who have a known email address: 111
+
+10. Number of people who have NaN for their total payments: 21
+
+The percentage is: 14
+
+11. Number of POIs who have NaN for their total payments: 0
+
+The percentage is: 0
+
+12. I would expect it to associate a "NaN" value with non-POIs since there is no POI without total payments feature.
+
+13. New number of people in the data set: 156
+Number of people who have NaN for their total payments: 31
+The percentage is: 19
+
+14. New number of POIs in the data set: 28
+Number of POIs who have NaN for their total payments: 10
+The percentage is: 35
+
+15. I don't think it would be a wise choice since only 10 of the 28 POIs have NaN for total_payments.

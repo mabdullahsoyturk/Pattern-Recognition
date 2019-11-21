@@ -1,0 +1,2 @@
+1. salary and exercised_stock_options
+2. Check Figure_1.png
