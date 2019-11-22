@@ -1,2 +1,7 @@
 1. salary and exercised_stock_options
 2. Check Figure_1.png
+3. Check Figure_2.png for the figure.
+4. Check Figure_3.png for the figure. Yes. 4 points switch clusters.
+5. Maximum Value: 34348384, Minimum Value: 3285
+6. Maximum Value: 1111258, Minimum Value: 477
+7. Rescaled value of $200000 salary: 0.179624066, Rescaled value of $1000000 exercised_stock_options: 0.02902058893
