@@ -3,3 +3,9 @@
 2.hi everyon if you can read this messag your proper use parseouttext pleas proceed to the next part of the project
 
 3.tjonesnsf stephani and sam need nymex calendar
+
+4. 38757 different words.
+
+Word number 34597 in TfIdf is "stephaniethank"
+
+
