@@ -1,0 +1,15 @@
+1. Accuracy: 1.0
+Number of training points: 150
+
+2. Accuracy on test set: 0.9476678043230944
+
+3. Importance of the most important feature: 0.7647058823529412
+Index of most important feature: 33614
+
+4. The word is: sshacklensf
+
+5. Yes, it does. The word is: cgermannsf
+
+6. Yes, it does. The word is: houectect
+
+7. Accuracy: 0.8168373151308305
